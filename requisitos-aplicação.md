@@ -10,8 +10,8 @@
 - [x] A transação pode ser do tipo crédito e débito:
   - [x] Crédito: Somará ao valor total
   - [x] Débito: Subtrairá do valor total
-- [] Deverá ser possível identificar o usuário entre as requisições
-- [] O usuário só pode visualizar transações geradas por ele mesmo.
+- [x] Deverá ser possível identificar o usuário entre as requisições
+- [x] O usuário só pode visualizar transações geradas por ele mesmo.
 
 # Requisitos Não Funcionais
 
